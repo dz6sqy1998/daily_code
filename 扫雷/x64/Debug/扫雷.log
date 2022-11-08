@@ -1,0 +1,6 @@
+﻿  game.c
+D:\programing app\test\Project1\扫雷\game.c(43,11): warning C4013: “rand”未定义；假设外部返回 int
+  test_saolei.c
+D:\programing app\test\Project1\扫雷\test_saolei.c(56,2): warning C4013: “srand”未定义；假设外部返回 int
+  正在生成代码...
+  扫雷.vcxproj -> D:\programing app\test\Project1\x64\Debug\扫雷.exe
